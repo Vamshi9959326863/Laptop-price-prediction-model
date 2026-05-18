@@ -238,17 +238,6 @@ This project can be deployed using:
 
 ---
 
-# Screenshots
-
-Add screenshots of:
-
-* Homepage
-* Prediction form
-* Output prediction
-* Model performance graphs
-
----
-
 # Learning Outcomes
 
 Through this project, you can learn:
