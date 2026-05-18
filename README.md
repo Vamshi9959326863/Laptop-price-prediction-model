@@ -262,20 +262,6 @@ Through this project, you can learn:
 
 ---
 
-# Author
-
-**Your Name**
-
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-
----
-
-# License
-
-This project is licensed under the MIT License.
-
----
 
 # Conclusion
 
